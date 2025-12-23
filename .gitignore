@@ -1,0 +1,5 @@
+*.ply
+/PointsToWood/data
+*.pth
+*.csv
+*.png
